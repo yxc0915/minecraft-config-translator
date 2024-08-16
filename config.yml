@@ -1,0 +1,22 @@
+proxy:
+  url: http://127.0.0.1:10809
+  # 或者使用 HTTP/HTTPS 代理
+  # url: http://your-http-proxy-server:port
+
+apis:
+  openai:
+    api_key: "your-openai-api-key"
+    base_url: "https://api.openai.com/v1/chat/completions"
+    models:
+      - "gpt-3.5-turbo"
+      - "gpt-4"
+  ohmygpt:
+    api_key: "YOURKEY"
+    base_url: "https://api.ohmygpt.com/v1/chat/completions"
+    models:
+      - "command-r-plus"
+      - "TA/Qwen/Qwen1.5-72B-Chat"
+      - "claude-3-5-sonnet-20240620"
+
+
+target_language: "简体中文"
