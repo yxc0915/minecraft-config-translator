@@ -17,35 +17,30 @@
 ## 安装
 
 1. 克隆此仓库：
+   
    ```
    git clone https://github.com/your-username/minecraft-config-translator.git
    cd minecraft-config-translator
    ```
-
 2. 安装依赖：
+   
    ```
    pip install -r requirements.txt
    ```
-
 3. 配置 `config.yml` 文件，添加您的 API 密钥和其他设置。
 
 ## 使用方法
 
 1. 运行应用：
+   
    ```
    streamlit run app.py
    ```
-
 2. 在浏览器中打开显示的 URL（通常是 http://localhost:8501 ）。
-
 3. 上传您想要翻译的 Minecraft 插件配置文件。
-
 4. 选择 AI API 和模型。
-
 5. 设置翻译选项（批量大小、最大重试次数等）。
-
 6. 点击"开始翻译"按钮。
-
 7. 等待翻译完成，然后下载翻译后的文件。
 
 ## 配置
@@ -70,6 +65,8 @@ target_language: "简体中文"
 
 ## 注意事项
 
+- 推荐OhMyGPT的command-r-plus模型，价格便宜
+- [点击前往OhMyGPT注册（请务必使用这个链接qwq）](https://www.ohmygpt.com?aff=2eaHPMNH)
 - 请确保您有足够的 API 使用额度。
 - 翻译大量文本可能需要一些时间，请耐心等待。
 - 始终检查翻译结果，以确保其准确性和适用性。
@@ -81,3 +78,4 @@ target_language: "简体中文"
 ## 许可证
 
 [MIT License](LICENSE)
+[[](https://)](https://)
