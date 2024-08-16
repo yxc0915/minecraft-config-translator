@@ -35,7 +35,7 @@
    streamlit run app.py
    ```
 
-2. 在浏览器中打开显示的 URL（通常是 http://localhost:8501）。
+2. 在浏览器中打开显示的 URL（通常是 http://localhost:8501 ）。
 
 3. 上传您想要翻译的 Minecraft 插件配置文件。
 
