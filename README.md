@@ -78,4 +78,3 @@ target_language: "简体中文"
 ## 许可证
 
 [MIT License](LICENSE)
-[[](https://)](https://)
